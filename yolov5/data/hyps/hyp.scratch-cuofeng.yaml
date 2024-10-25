@@ -1,0 +1,63 @@
+# YOLOv5 🚀 by Ultralytics, AGPL-3.0 license
+# Hyperparameters for low-augmentation COCO training from scratch
+# python train.py --batch 64 --cfg yolov5n6.yaml --weights '' --data coco.yaml --img 640 --epochs 300 --linear
+# See tutorials for hyperparameter evolution https://github.com/ultralytics/yolov5#tutorials
+
+lr0: 0.01 
+# initial learning rate (SGD=1E-2, Adam=1E-3) 初始学习率，是模型训练时的初始学习速率。在优化过程中，学习率会根据训练的轮数进行调整。
+lrf: 0.01 
+# final OneCycleLR learning rate (lr0 * lrf) OneCycleLR学习率的最终值。OneCycleLR是一种学习率调度策略，它会在训练过程中动态地调整学习率，最终达到一个更低的学习率。
+momentum: 0.937 
+# SGD momentum/Adam beta1 SGD优化器的动量参数或Adam优化器的beta1参数。动量可以帮助优化器在训练过程中更快地收敛到局部最优解。
+weight_decay: 0.0005 
+# optimizer weight decay 5e-4 优化器的权重衰减参数。它用于控制模型参数的正则化程度，可以防止过拟合。
+warmup_epochs: 3.0 
+# warmup epochs (fractions ok) 预热阶段的轮数。预热阶段是训练开始时的一段时间，在这段时间内，学习率逐渐增加到一个较高的值，以避免训练初期的不稳定性。
+warmup_momentum: 0.8 
+# warmup initial momentum 预热阶段的初始动量。与学习率类似，动量也可以在预热阶段逐渐增加到一个较高的值。
+warmup_bias_lr: 0.1 
+# warmup initial bias lr 预热阶段的初始偏置学习率。偏置学习率是用于调整偏置参数的学习率，通常比权重参数的学习率小。
+box: 0.05 
+# box loss gain 边界框损失的增益参数。它控制边界框损失在总损失中的权重，对于YOLO算法来说，边界框损失通常占据了较大的比例。
+cls: 0.5 
+# cls loss gain 分类损失的增益参数。它控制分类损失在总损失中的权重，用于调整模型对目标类别的预测精度。
+cls_pw: 1.0 
+# cls BCELoss positive_weight 分类BCELoss的正样本权重参数。它用于调整正样本和负样本在分类损失中的权重，可以用于处理类别不平衡的情况。
+obj: 1.0 
+# obj loss gain (scale with pixels) 目标损失的增益参数。它控制目标损失在总损失中的权重，用于调整模型对目标检测的精度。
+obj_pw: 1.0 
+# obj BCELoss positive_weight 目标BCELoss的正样本权重参数。它用于调整正样本和负样本在目标损失中的权重，可以用于处理目标不平衡的情况。
+iou_t: 0.20 
+# IoU training threshold IoU训练阈值。它定义了模型在训练过程中用于计算目标损失的IoU阈值，用于判断预测框和真实框之间的重叠程度。
+anchor_t: 4.0 
+# anchor-multiple threshold 锚框多重阈值。它用于调整模型在训练过程中用于生成锚框的阈值，可以影响锚框的数量和位置。
+# anchors: 3  
+# anchors per output layer (0 to ignore)
+fl_gamma: 0.0 
+# focal loss gamma (efficientDet default gamma=1.5) 焦点损失的gamma参数。焦点损失是一种用于处理样本不平衡的损失函数，gamma参数控制了焦点损失的衰减速度。
+hsv_h: 0.015 
+# image HSV-Hue augmentation (fraction) 图像HSV-Hue增强参数。它定义了在图像增强过程中对图像的Hue通道进行随机调整的幅度。
+hsv_s: 0.7 
+# image HSV-Saturation augmentation (fraction) 图像HSV-Saturation增强参数。它定义了在图像增强过程中对图像的Saturation通道进行随机调整的幅度。
+hsv_v: 0.4 
+# image HSV-Value augmentation (fraction) 图像HSV-Value增强参数。它定义了在图像增强过程中对图像的Value通道进行随机调整的幅度。
+degrees: 0.3
+# image rotation (+/- deg) 图像旋转参数。它定义了在图像增强过程中对图像进行随机旋转的幅度。
+translate: 0.1 
+# image translation (+/- fraction) 图像平移参数。它定义了在图像增强过程中对图像进行随机平移的幅度。
+scale: 0.5 
+# image scale (+/- gain) 图像缩放参数。它定义了在图像增强过程中对图像进行随机缩放的幅度。
+shear: 0.0 
+# image shear (+/- deg) 图像剪切参数。它定义了在图像增强过程中对图像进行随机剪切的幅度。
+perspective: 0.0 
+# image perspective (+/- fraction), range 0-0.001 图像透视变换参数。它定义了在图像增强过程中对图像进行随机透视变换的幅度。
+flipud: 0.5 
+# image flip up-down (probability) 图像上下翻转参数。它定义了在图像增强过程中对图像进行上下翻转的概率。
+fliplr: 0.5 
+# image flip left-right (probability) 图像左右翻转参数。它定义了在图像增强过程中对图像进行左右翻转的概率。
+mosaic: 1.0 
+# image mosaic (probability) 图像马赛克参数。它定义了在图像增强过程中使用图像马赛克的概率。
+mixup: 0.0 
+# image mixup (probability) 图像混合参数。它定义了在图像增强过程中使用图像混合的概率。
+copy_paste: 0.0 
+# segment copy-paste (probability) 图像分割复制粘贴参数。它定义了在图像增强过程中使用图像分割复制粘贴的概率。

@@ -1,0 +1,4794 @@
+{
+    "data": [
+        {
+            "id": 7357,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909114048",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    3.33,
+                    3.03,
+                    4.55,
+                    7.14
+                ],
+                "LF": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-114048.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7358,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909114111",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    5.41
+                ],
+                "LF": [
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-114111.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7359,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909114134",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    5.21,
+                    7.34
+                ],
+                "LF": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-114134.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7360,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909114205",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    4.5
+                ],
+                "LF": [
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-114205.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7361,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909114229",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    4.06
+                ],
+                "LF": [
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-114229.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7362,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909114306",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    8.49,
+                    3.08,
+                    5.59
+                ],
+                "LF": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-114306.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7363,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909114322",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    2.25,
+                    1.59,
+                    5.64
+                ],
+                "LF": [
+                    15.36,
+                    26.88,
+                    5.76
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-114322.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7364,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909114345",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    0.38
+                ],
+                "LF": [
+                    14.4
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-114345.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7365,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909114455",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    12.04,
+                    4.64
+                ],
+                "LF": [
+                    3.63,
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-114455.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7366,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909114523",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    5.76,
+                    5.1
+                ],
+                "LF": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-114523.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7367,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909114543",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    13.2,
+                    5.31,
+                    67.62
+                ],
+                "LF": [
+                    10.56,
+                    0.0,
+                    10.56
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-114543.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7368,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909114608",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    4.35,
+                    4.03,
+                    3.6
+                ],
+                "LF": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-114608.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7369,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909114705",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    7.26,
+                    4.41,
+                    6.65,
+                    13.62
+                ],
+                "LF": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.91
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-114705.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7370,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909114733",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    72.51,
+                    3.55,
+                    3.24
+                ],
+                "LF": [
+                    4.53,
+                    0.0,
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-114733.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7371,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909114935",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    3.15
+                ],
+                "LF": [
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-114935.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7372,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909115107",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    3.94
+                ],
+                "LF": [
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-115107.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7373,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909115131",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    48.62,
+                    7.52,
+                    3.46,
+                    6.08
+                ],
+                "LF": [
+                    3.63,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-115131.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7374,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909115152",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    65.39
+                ],
+                "LF": [
+                    3.63
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-115152.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7375,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909115439",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    6.75,
+                    5.0,
+                    8.69,
+                    10.24,
+                    9.86,
+                    11.42,
+                    4.54,
+                    5.75,
+                    6.65,
+                    6.96
+                ],
+                "LF": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    21.76,
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-115439.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7376,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909115500",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    4.45,
+                    4.21,
+                    11.97
+                ],
+                "LF": [
+                    0.0,
+                    0.0,
+                    2.72
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-115500.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7377,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909115524",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    3.19,
+                    10.46,
+                    3.69,
+                    3.21
+                ],
+                "LF": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-115524.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7378,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909115546",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    3.42,
+                    4.11,
+                    4.11
+                ],
+                "LF": [
+                    6.35,
+                    0.0,
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-115546.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7379,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909115611",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    7.07,
+                    3.16
+                ],
+                "LF": [
+                    5.44,
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-115611.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7380,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909115636",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    5.37,
+                    7.54
+                ],
+                "LF": [
+                    0.0,
+                    5.76
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-115636.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7381,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909115725",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    5.76,
+                    3.75,
+                    3.73,
+                    8.47,
+                    3.32
+                ],
+                "LF": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.91
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-115725.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7382,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909120719",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    4.38,
+                    7.72,
+                    16.72,
+                    4.78,
+                    4.18,
+                    5.1,
+                    7.47,
+                    61.4,
+                    12.31,
+                    7.19
+                ],
+                "LF": [
+                    0.0,
+                    0.0,
+                    4.53,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    12.69,
+                    0.0,
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-120719.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7383,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909120740",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    6.58,
+                    5.4,
+                    68.66,
+                    3.71,
+                    61.31
+                ],
+                "LF": [
+                    4.8,
+                    0.0,
+                    4.8,
+                    0.0,
+                    9.07
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-120740.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7384,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909120802",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    4.75,
+                    6.3,
+                    5.79,
+                    5.25,
+                    24.19
+                ],
+                "LF": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.91
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-120802.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7385,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909120827",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    5.62,
+                    4.81,
+                    3.44
+                ],
+                "LF": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-120827.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7386,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909120848",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    3.09,
+                    4.02,
+                    4.57,
+                    3.04,
+                    4.98,
+                    4.19,
+                    6.32
+                ],
+                "LF": [
+                    0.0,
+                    0.0,
+                    4.53,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-120848.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7387,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909120909",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    4.15,
+                    5.29,
+                    5.01,
+                    3.23,
+                    66.43,
+                    17.93
+                ],
+                "LF": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    5.44,
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-120909.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7388,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909120931",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    3.09,
+                    3.84,
+                    5.7,
+                    3.41,
+                    3.6,
+                    7.7
+                ],
+                "LF": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-120931.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7389,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909121018",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    6.49,
+                    4.72
+                ],
+                "LF": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-121018.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7390,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909121107",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    4.2,
+                    3.35,
+                    3.82
+                ],
+                "LF": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-121107.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7391,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909121147",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    3.49,
+                    3.25,
+                    5.57
+                ],
+                "LF": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-121147.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7392,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909121225",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    5.72,
+                    4.4,
+                    4.72,
+                    3.77,
+                    3.24,
+                    3.2,
+                    3.69
+                ],
+                "LF": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-121225.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7393,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909121252",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    3.65,
+                    4.02,
+                    3.86,
+                    5.21,
+                    5.92,
+                    13.28,
+                    10.69,
+                    11.77,
+                    11.1,
+                    11.87,
+                    12.96,
+                    12.19,
+                    9.85,
+                    8.95,
+                    8.83,
+                    7.13,
+                    10.24,
+                    8.8,
+                    5.46
+                ],
+                "LF": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-121252.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7394,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909121319",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    4.67,
+                    5.98,
+                    3.32
+                ],
+                "LF": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-121319.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7395,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909121342",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    3.23,
+                    3.26
+                ],
+                "LF": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-121342.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7396,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909121403",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    3.74
+                ],
+                "LF": [
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-121403.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7397,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909121435",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    3.41,
+                    13.78,
+                    3.26,
+                    5.0,
+                    9.13,
+                    4.06,
+                    6.43,
+                    5.02,
+                    3.34,
+                    3.28
+                ],
+                "LF": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-121435.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7398,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909121457",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    4.18,
+                    3.93,
+                    3.4,
+                    3.07,
+                    5.32,
+                    4.31,
+                    3.18,
+                    3.34,
+                    3.57,
+                    3.22,
+                    3.07
+                ],
+                "LF": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-121457.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7399,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909121521",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    3.63,
+                    5.34,
+                    4.01,
+                    3.82,
+                    3.31,
+                    5.46,
+                    3.42,
+                    4.01,
+                    3.94,
+                    3.58
+                ],
+                "LF": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-121521.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7400,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909121607",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    4.46,
+                    4.37,
+                    4.04
+                ],
+                "LF": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-121607.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7401,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909121638",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    7.14,
+                    4.02,
+                    3.53,
+                    3.95
+                ],
+                "LF": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-121638.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7402,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909121701",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    4.23,
+                    3.61,
+                    3.51,
+                    9.98,
+                    11.25,
+                    4.64,
+                    8.49,
+                    6.95
+                ],
+                "LF": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-121701.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7403,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909121810",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    28.22,
+                    28.62,
+                    23.28,
+                    23.11,
+                    28.95,
+                    25.86,
+                    27.89,
+                    24.63,
+                    27.55,
+                    28.45,
+                    26.13,
+                    26.98,
+                    31.85,
+                    21.54,
+                    30.23,
+                    26.98,
+                    28.86,
+                    16.89,
+                    21.75,
+                    13.25,
+                    7.17,
+                    13.21,
+                    90.14
+                ],
+                "LF": [
+                    0.71,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    4.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    4.0,
+                    1.6,
+                    5.12,
+                    6.83,
+                    4.27,
+                    0.0,
+                    14.51,
+                    8.16,
+                    3.84,
+                    0.0,
+                    10.24
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-121810.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7404,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909121832",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    4.5,
+                    10.32,
+                    7.51,
+                    4.69,
+                    14.47
+                ],
+                "LF": [
+                    0.0,
+                    7.25,
+                    0.0,
+                    0.0,
+                    0.96
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-121832.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7405,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909121854",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    5.72,
+                    3.42
+                ],
+                "LF": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-121854.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7406,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909121924",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    4.4,
+                    3.32,
+                    3.02,
+                    3.12,
+                    4.01
+                ],
+                "LF": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-121924.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7407,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909121944",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    3.08,
+                    3.29,
+                    3.02,
+                    2.13
+                ],
+                "LF": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    29.01
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-121944.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7408,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909122012",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    5.93,
+                    3.75,
+                    3.98,
+                    5.13,
+                    3.58,
+                    3.86
+                ],
+                "LF": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-122012.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7409,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909122033",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    4.2,
+                    3.49,
+                    4.34,
+                    4.11,
+                    6.62,
+                    4.92,
+                    3.51,
+                    6.47,
+                    4.6,
+                    1.64,
+                    16.55
+                ],
+                "LF": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    3.63,
+                    11.79,
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-122033.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7410,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909122104",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    7.84,
+                    4.33,
+                    54.99,
+                    3.84
+                ],
+                "LF": [
+                    0.0,
+                    0.0,
+                    8.16,
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-122104.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7411,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909122123",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    35.16
+                ],
+                "LF": [
+                    13.6
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-122123.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7412,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909122133",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    4.95,
+                    3.1,
+                    12.2,
+                    5.36
+                ],
+                "LF": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-122133.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7413,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909122142",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    4.17,
+                    3.79,
+                    24.32,
+                    4.65,
+                    4.78,
+                    4.61,
+                    3.24,
+                    5.25
+                ],
+                "LF": [
+                    0.0,
+                    5.44,
+                    9.07,
+                    0.0,
+                    6.35,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-122142.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7414,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909122152",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    5.56,
+                    5.81,
+                    6.99
+                ],
+                "LF": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-122152.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7415,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909122202",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    3.68,
+                    5.48,
+                    4.74
+                ],
+                "LF": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-122202.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7416,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909122212",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    3.73,
+                    3.26,
+                    5.11,
+                    57.23,
+                    5.19,
+                    7.73
+                ],
+                "LF": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    6.35,
+                    0.0,
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-122212.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7417,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909122232",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    19.27,
+                    50.48,
+                    64.98
+                ],
+                "LF": [
+                    9.07,
+                    10.88,
+                    9.07
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-122232.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7418,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909122252",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    3.23,
+                    3.09
+                ],
+                "LF": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-122252.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7419,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909122302",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    3.33,
+                    3.2,
+                    4.57,
+                    40.93,
+                    25.11
+                ],
+                "LF": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    4.53,
+                    6.35
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-122302.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7420,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909122346",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    3.91,
+                    4.2,
+                    13.9,
+                    4.79,
+                    4.93
+                ],
+                "LF": [
+                    0.0,
+                    0.0,
+                    25.92,
+                    4.8,
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-122346.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7421,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909122404",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    43.5,
+                    38.28,
+                    12.24,
+                    5.87
+                ],
+                "LF": [
+                    5.44,
+                    18.13,
+                    1.81,
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-122404.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7422,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909122415",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    1.19
+                ],
+                "LF": [
+                    37.17
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-122415.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7423,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909122425",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    4.72,
+                    3.0,
+                    3.91
+                ],
+                "LF": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-122425.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7424,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909122435",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    66.78,
+                    3.45,
+                    3.78,
+                    3.98
+                ],
+                "LF": [
+                    12.69,
+                    7.25,
+                    0.0,
+                    5.44
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-122435.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7425,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909122445",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    7.11,
+                    4.18,
+                    5.69
+                ],
+                "LF": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-122445.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7426,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909122505",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    3.23
+                ],
+                "LF": [
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-122505.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7427,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909122518",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    45.08,
+                    4.73,
+                    3.08,
+                    4.81,
+                    3.51,
+                    3.06,
+                    14.95
+                ],
+                "LF": [
+                    1.92,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-122518.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7428,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909122538",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    64.98,
+                    70.61,
+                    1.18
+                ],
+                "LF": [
+                    3.84,
+                    1.81,
+                    17.28
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-122538.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7429,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909122548",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    3.77,
+                    4.93,
+                    11.66,
+                    3.44,
+                    3.23
+                ],
+                "LF": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-122548.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7430,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909122557",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    16.86
+                ],
+                "LF": [
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-122557.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7431,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909122609",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    3.03,
+                    15.3,
+                    3.35,
+                    55.89
+                ],
+                "LF": [
+                    0.0,
+                    1.81,
+                    0.0,
+                    6.35
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-122609.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7432,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909122618",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    4.26,
+                    5.43,
+                    3.69,
+                    16.82,
+                    6.39
+                ],
+                "LF": [
+                    3.63,
+                    3.63,
+                    4.53,
+                    4.8,
+                    0.96
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-122618.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7433,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909122628",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    3.3,
+                    5.02,
+                    58.63
+                ],
+                "LF": [
+                    0.0,
+                    0.0,
+                    2.72
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-122628.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7434,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909122638",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    3.77,
+                    3.34,
+                    3.41
+                ],
+                "LF": [
+                    0.0,
+                    1.92,
+                    0.96
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-122638.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7435,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909122647",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    5.36,
+                    4.32,
+                    6.78
+                ],
+                "LF": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-122647.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7436,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909122658",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    4.24,
+                    4.8,
+                    3.15,
+                    4.45
+                ],
+                "LF": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-122658.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7437,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909122708",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    4.71,
+                    6.37
+                ],
+                "LF": [
+                    0.91,
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-122708.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7438,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909122718",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    3.88,
+                    3.87
+                ],
+                "LF": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-122718.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7439,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909122728",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    6.29,
+                    6.78,
+                    4.44,
+                    3.33
+                ],
+                "LF": [
+                    0.0,
+                    7.25,
+                    0.0,
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-122728.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7440,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909122748",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    4.13,
+                    5.5,
+                    5.44,
+                    3.12,
+                    3.02,
+                    5.2,
+                    3.41
+                ],
+                "LF": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-122748.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7441,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909122758",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    3.19,
+                    3.36,
+                    3.26
+                ],
+                "LF": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-122758.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7442,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909122808",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    3.45,
+                    3.36,
+                    3.12,
+                    3.0,
+                    3.12,
+                    3.21
+                ],
+                "LF": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-122808.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7443,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909122818",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    4.18,
+                    3.17,
+                    3.42,
+                    3.98,
+                    3.27
+                ],
+                "LF": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-122818.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7444,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909122829",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    3.03,
+                    3.28,
+                    3.41,
+                    3.39,
+                    3.23,
+                    3.28,
+                    3.44,
+                    3.22,
+                    3.03,
+                    4.13
+                ],
+                "LF": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-122829.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7445,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909122948",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    3.91,
+                    3.16,
+                    3.39,
+                    3.13,
+                    13.46
+                ],
+                "LF": [
+                    3.84,
+                    9.6,
+                    10.56,
+                    23.04,
+                    6.72
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-122948.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7446,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909122959",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    5.05,
+                    3.1,
+                    3.24,
+                    3.46,
+                    4.59,
+                    3.82,
+                    5.82,
+                    5.66,
+                    9.68,
+                    5.11
+                ],
+                "LF": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    2.88,
+                    0.96,
+                    0.0,
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-122959.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7447,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909123019",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    2.9,
+                    0.51,
+                    5.05,
+                    4.3,
+                    4.03,
+                    4.79,
+                    3.69,
+                    4.04,
+                    4.76,
+                    8.83
+                ],
+                "LF": [
+                    36.27,
+                    14.51,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-123019.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7448,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909123029",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    3.68,
+                    3.85,
+                    3.18,
+                    5.47,
+                    3.02,
+                    3.95
+                ],
+                "LF": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-123029.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7449,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225023471618",
+            "ceiling_name": "站厅",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909123052",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    11.52,
+                    5.76,
+                    13.19,
+                    4.27,
+                    5.93,
+                    3.64,
+                    3.11,
+                    4.01,
+                    3.5,
+                    4.26
+                ],
+                "LF": [
+                    0.0,
+                    0.0,
+                    0.96,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-123052.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7450,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225027665922",
+            "ceiling_name": "站台",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909123323",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    5.56,
+                    3.02,
+                    4.22
+                ],
+                "LF": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-123323.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7451,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225027665922",
+            "ceiling_name": "站台",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909123444",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    3.02,
+                    4.82
+                ],
+                "LF": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-123444.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7452,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225027665922",
+            "ceiling_name": "站台",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909123519",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    3.47,
+                    4.1,
+                    3.82
+                ],
+                "LF": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-123519.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7453,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225027665922",
+            "ceiling_name": "站台",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909123539",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    4.74,
+                    8.86,
+                    4.54,
+                    8.2,
+                    6.31
+                ],
+                "LF": [
+                    0.0,
+                    2.88,
+                    0.96,
+                    0.0,
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-123539.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7454,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225027665922",
+            "ceiling_name": "站台",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909123600",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    3.65,
+                    4.46,
+                    3.45,
+                    6.9
+                ],
+                "LF": [
+                    0.91,
+                    0.91,
+                    0.0,
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-123600.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7455,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225027665922",
+            "ceiling_name": "站台",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909123611",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    5.65,
+                    5.01,
+                    3.03,
+                    3.1,
+                    7.11
+                ],
+                "LF": [
+                    3.84,
+                    5.76,
+                    0.96,
+                    0.0,
+                    0.96
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-123611.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7456,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225027665922",
+            "ceiling_name": "站台",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909123630",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    37.52,
+                    36.31
+                ],
+                "LF": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-123630.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7457,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225027665922",
+            "ceiling_name": "站台",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909123651",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    7.47,
+                    3.52,
+                    6.43,
+                    7.42,
+                    6.68,
+                    6.04,
+                    4.52,
+                    8.32
+                ],
+                "LF": [
+                    5.76,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    6.72
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-123651.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7458,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225027665922",
+            "ceiling_name": "站台",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909123711",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    7.22,
+                    5.46
+                ],
+                "LF": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-123711.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7459,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225027665922",
+            "ceiling_name": "站台",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909123752",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    3.97,
+                    4.57,
+                    5.01,
+                    9.06,
+                    4.98,
+                    270.94
+                ],
+                "LF": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    8.16,
+                    2.88,
+                    2.72
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-123752.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7460,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225027665922",
+            "ceiling_name": "站台",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909123815",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    4.0,
+                    6.04,
+                    7.27,
+                    4.95
+                ],
+                "LF": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-123815.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7461,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225027665922",
+            "ceiling_name": "站台",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909123824",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    3.71,
+                    12.15,
+                    4.73,
+                    3.64
+                ],
+                "LF": [
+                    6.72,
+                    0.96,
+                    0.0,
+                    0.96
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-123824.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7462,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225027665922",
+            "ceiling_name": "站台",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909123834",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    5.99,
+                    4.74,
+                    6.43,
+                    3.99
+                ],
+                "LF": [
+                    0.0,
+                    3.63,
+                    0.0,
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-123834.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7463,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225027665922",
+            "ceiling_name": "站台",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909123844",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    67.21,
+                    37.33,
+                    62.03,
+                    5.15,
+                    71.32,
+                    5.18,
+                    3.06,
+                    53.98,
+                    58.75,
+                    3.23,
+                    57.22,
+                    4.73,
+                    3.26,
+                    63.58
+                ],
+                "LF": [
+                    0.0,
+                    0.91,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    6.83,
+                    3.41,
+                    0.91,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-123844.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7464,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225027665922",
+            "ceiling_name": "站台",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909123914",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    4.25,
+                    3.64,
+                    3.2,
+                    22.33,
+                    5.4,
+                    5.82
+                ],
+                "LF": [
+                    0.91,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-123914.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7465,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225027665922",
+            "ceiling_name": "站台",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909123923",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    4.65,
+                    4.47,
+                    22.22,
+                    5.33,
+                    6.6
+                ],
+                "LF": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-123923.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7466,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225027665922",
+            "ceiling_name": "站台",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909123934",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    34.64,
+                    23.56,
+                    26.35,
+                    36.47,
+                    8.2,
+                    3.31,
+                    8.81,
+                    3.74,
+                    7.07,
+                    8.11,
+                    5.36,
+                    7.5
+                ],
+                "LF": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-123934.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7467,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225027665922",
+            "ceiling_name": "站台",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909123943",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    3.62,
+                    6.64,
+                    3.93,
+                    7.69,
+                    7.53,
+                    9.22
+                ],
+                "LF": [
+                    0.0,
+                    6.35,
+                    2.72,
+                    0.91,
+                    2.72,
+                    1.81
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-123943.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7468,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225027665922",
+            "ceiling_name": "站台",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909124004",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    6.62,
+                    7.02,
+                    3.55,
+                    5.92,
+                    4.25,
+                    8.97,
+                    3.02,
+                    3.07,
+                    18.19
+                ],
+                "LF": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-124004.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7469,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225027665922",
+            "ceiling_name": "站台",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909124013",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    3.86,
+                    3.69
+                ],
+                "LF": [
+                    0.0,
+                    2.72
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-124013.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7470,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225027665922",
+            "ceiling_name": "站台",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909124028",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    2.05,
+                    1.7,
+                    3.02,
+                    2.96,
+                    7.58,
+                    1.75
+                ],
+                "LF": [
+                    15.41,
+                    15.41,
+                    12.69,
+                    14.51,
+                    9.07,
+                    10.88
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-124028.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7471,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225027665922",
+            "ceiling_name": "站台",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909124047",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    4.51
+                ],
+                "LF": [
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-124047.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7472,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225027665922",
+            "ceiling_name": "站台",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909124056",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    0.13,
+                    3.25,
+                    1.68,
+                    53.27
+                ],
+                "LF": [
+                    31.73,
+                    2.72,
+                    67.09,
+                    19.04
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-124056.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7473,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225027665922",
+            "ceiling_name": "站台",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909124121",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    6.21,
+                    5.1,
+                    10.66,
+                    14.96
+                ],
+                "LF": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-124121.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7474,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225027665922",
+            "ceiling_name": "站台",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909124157",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    6.59,
+                    3.34,
+                    4.99
+                ],
+                "LF": [
+                    0.91,
+                    0.0,
+                    4.53
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-124157.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7475,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225027665922",
+            "ceiling_name": "站台",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909124222",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    10.55,
+                    4.9,
+                    7.92,
+                    8.32,
+                    8.23,
+                    4.36,
+                    8.58
+                ],
+                "LF": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-124222.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7476,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225027665922",
+            "ceiling_name": "站台",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909124253",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    245.51,
+                    2.1,
+                    12.21,
+                    4.73,
+                    8.75
+                ],
+                "LF": [
+                    24.48,
+                    11.79,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-124253.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7477,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225027665922",
+            "ceiling_name": "站台",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909124317",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    4.44,
+                    3.34
+                ],
+                "LF": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-124317.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7478,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225027665922",
+            "ceiling_name": "站台",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909124347",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    3.56,
+                    7.68
+                ],
+                "LF": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-124347.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7479,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225027665922",
+            "ceiling_name": "站台",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909124357",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    8.82,
+                    3.55,
+                    8.55,
+                    16.03
+                ],
+                "LF": [
+                    7.25,
+                    0.0,
+                    6.35,
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-124357.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7480,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225027665922",
+            "ceiling_name": "站台",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909124407",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    4.21
+                ],
+                "LF": [
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-124407.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7481,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225027665922",
+            "ceiling_name": "站台",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909124426",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    10.18
+                ],
+                "LF": [
+                    0.91
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-124426.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7482,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225027665922",
+            "ceiling_name": "站台",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909124459",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    238.37,
+                    11.92,
+                    6.43,
+                    10.63,
+                    7.61,
+                    7.57
+                ],
+                "LF": [
+                    14.93,
+                    5.44,
+                    9.97,
+                    8.16,
+                    3.63,
+                    8.16
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-124459.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7483,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225027665922",
+            "ceiling_name": "站台",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909124541",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    3.15,
+                    5.18,
+                    4.56,
+                    798.71,
+                    792.03,
+                    4.26
+                ],
+                "LF": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    52.59,
+                    41.28,
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-124541.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7484,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225027665922",
+            "ceiling_name": "站台",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909124606",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    4.3,
+                    3.98,
+                    4.66,
+                    3.09,
+                    4.65,
+                    5.02
+                ],
+                "LF": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-124606.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7485,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225027665922",
+            "ceiling_name": "站台",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909124640",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    3.72,
+                    3.77
+                ],
+                "LF": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-124640.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7486,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225027665922",
+            "ceiling_name": "站台",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909124711",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    74.95,
+                    70.63,
+                    70.56,
+                    64.32,
+                    34.22,
+                    24.71
+                ],
+                "LF": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.85,
+                    10.56
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-124711.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7487,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225027665922",
+            "ceiling_name": "站台",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909124718",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    75.05,
+                    70.28,
+                    70.57,
+                    65.5,
+                    35.25,
+                    27.35
+                ],
+                "LF": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-124718.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        },
+        {
+            "id": 7488,
+            "inspector": "巡检人员",
+            "line_id": "1552945383813009411",
+            "line_name": "1号线",
+            "station_id": "1554674973879074818",
+            "station_name": "四惠",
+            "ceiling_id": "1739583225027665922",
+            "ceiling_name": "站台",
+            "depart_id": "1750773207980503042",
+            "depart_name": "维护五中心",
+            "inspection_time": "20240909124911",
+            "damageDesc": "墙面有裂缝",
+            "damageType": "LC, LF",
+            "damageData": {
+                "LC": [
+                    3.11,
+                    3.41,
+                    4.76,
+                    5.29
+                ],
+                "LF": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            "damageDetail": "病害描述",
+            "damageLocation": "检测位置",
+            "picName": "2024-0909-124911.png",
+            "ceilingType": "5",
+            "isDisposed": 0,
+            "measures": "处理措施"
+        }
+    ]
+}
