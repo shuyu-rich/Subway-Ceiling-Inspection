@@ -11,6 +11,8 @@ import sqlite3
 import os
 import pygame
 import serial.tools.list_ports
+import tkinter as tk
+from tkinter import messagebox
 import re
 from collections import deque
 
@@ -1364,18 +1366,17 @@ class ImageCaptureThread(QThread):
                         depth_value_left_top = np.min(list2)
                         vertical_distance = self.calculate_vertical_distance(depth_value_right_top,
                                                                              depth_value_left_top)
-                        depth_frame2 = self.device.capture_depth().data()
-                        cv2.rectangle(depth_frame2, (int(c_depth_x1 - 5), int(depth_y + 5)),
-                                      (int(c_depth_x1 - 5), int(depth_y + 5)),
-                                      (0, 0, 255), 2)
-                        cv2.rectangle(depth_frame2, (int(c_depth_x2 -5), int(depth_y + 5)),
-                                      (int(c_depth_x2 - 5), int(depth_y + 5)),
-                                      (0, 0, 255), 2)
-                        # cv2.imshow("depth_frame1", depth_frame2)
-                        # color_image = cv2.cvtColor(depth_frame, cv2.COLOR_GRAY2BGR)
-
-                        cv2.imshow("depth_frame", depth_frame)
-
+                        # depth_frame2 = self.device.capture_depth().data()
+                        # cv2.rectangle(depth_frame1, (int(c_depth_x1 + 77), int(c_depth_y1 + 47)),
+                        #               (int(c_depth_x1 + 87), int(c_depth_y1 + 47)),
+                        #               (0, 0, 255), 2)
+                        # cv2.rectangle(depth_frame1, (int(c_depth_x2 + 77), int(c_depth_y2 + 47)),
+                        #               (int(c_depth_x2 - 83), int(c_depth_y2 + 53)),
+                        #               (0, 0, 255), 2)
+                        # # color_image = cv2.cvtColor(depth_frame, cv2.COLOR_GRAY2BGR)
+                        #
+                        # cv2.imshow("depth_frame", depth_frame1)
+                        # cv2.imshow("depth_frame1", depth_frame1)
                     except Exception as e:
                         print(f"超出边界，错误信息{e}")
                         vertical_distance = 0
@@ -1479,7 +1480,7 @@ class ImageCaptureThread(QThread):
                     self.draw_boxes(color_frame, [inside_cuofeng_boxes[i], inside_cuofeng_boxes[i + 1]],
                                     [vertical_list], [y_diff_mm], [vertical_distance], color=(255, 0, 0))
 
-                    print(f"vertical_list >= 10:{vertical_list}\tvertical_distance >= 3.0:{vertical_distance}")
+                    # print(f"vertical_list >= 10:{vertical_list}\tvertical_distance >= 3.0:{vertical_distance}")
                     self.alarmStatusChanged.emit(True)
                     self.tankuang = True
                     print("触发报警！垂直距离大于等于三毫米或水平距离大于等于十公分")
@@ -1829,6 +1830,7 @@ class ZoomWindow(QDialog):
     def save_image(self):
         global global_lc_lf_conditions  # 引用全局变量
         global global_lc_cf_conditions  # 引用全局变量
+        global folder_path
         current_date = QDateTime.currentDateTime().toString("yyyyMMddHHmmss")
         current_datd = datetime.now().strftime('%Y%m%d')
 
@@ -2195,7 +2197,7 @@ class MyWindow(QMainWindow):
 
         self.model_combo = QComboBox()
         # 向下拉框添加模型选项
-        model_options = ["补丁铝板", "铝板", "栅格", "反光冲孔板", "冲孔板", "勾搭铝板", "拉网+板", "铝条板", "栅格加网", "铝方通", "矿棉板", "垂片", "高铝板","宽铝方通"]
+        model_options = ["补丁铝板", "铝板", "栅格", "反光冲孔板", "冲孔板", "勾搭铝板", "拉网+板", "铝条板", "栅格加网", "铝方通", "矿棉板", "垂片", "高铝板", "宽铝方通", "突出铝板"]
         self.model_combo.setFixedSize(160, 40)
         self.model_combo.setFont(font)  # 设置下拉框的字体
         self.model_combo.addItems(model_options)
@@ -2438,6 +2440,7 @@ class MyWindow(QMainWindow):
         self.selected_area = self.area_combo.currentText()
         self.selected_center = self.center_combo.currentText()
 
+
     def get_selected_options(self):
         # 在选择完线路、车站、区域和中心后，获取这些选择项的详细信息
         line_id, line_name = self.get_line_details(self.selected_line)
@@ -2455,6 +2458,7 @@ class MyWindow(QMainWindow):
             "depart_id": depart_id,
             "depart_name": depart_name
         }
+
 
     def get_line_details(self, line_name):
         # 根据 line_name 从数据库或其他来源获取 line_id 和 line_name
@@ -2482,11 +2486,13 @@ class MyWindow(QMainWindow):
         result = self.db_cursor.fetchone()
         return result[0], center_name if result else (None, center_name)
 
+
     def load_serial_ports(self):
         ports = list(serial.tools.list_ports.comports())
         port_names = [port.device for port in ports]
         self.serial_port_combo.clear()
         self.serial_port_combo.addItems(port_names)
+
 
     def auto_connect_measurement_device(self):
         try:
@@ -2824,10 +2830,62 @@ class MyWindow(QMainWindow):
     #
     #     except Exception as e:
     #         QMessageBox.warning(self, "更新错误", f"更新数据时发生错误: {str(e)}")
+    def count_files_in_directory(self, directory):
+        """统计指定目录及其子目录中的文件总数"""
+        if not os.path.exists(directory):
+            print(f"错误：目录不存在 - {directory}")
+            return 0
+
+        print(f"正在统计的目录：{directory}")
+        total_files = 0
+        try:
+            for root, dirs, files in os.walk(directory):
+                total_files += len(files)
+        except Exception as e:
+            print(f"统计文件时出错: {e}")
+        return total_files
+
+    def delete_all_in_directory(self,directory):
+        """删除指定目录及其子目录中的所有文件和子文件夹"""
+        if not os.path.exists(directory):
+            root = tk.Tk()
+            root.withdraw()
+            messagebox.askyesno("错误", f"目标不存在 -你的路径 {directory}")
+            root.destroy()
+            return
+
+        print(f"正在删除整个目录：{directory}")
+        try:
+            shutil.rmtree(directory)
+            print(f"已删除目录: {directory}")
+        except Exception as e:
+            print(f"删除目录时出错: {directory} - {e}")
+
+    def confirm_deletion(self, directory_path, folder_path1, file_count1):
+        """弹出确认对话框，询问用户是否确认删除
+        directory_path: 所有照片文件夹路径
+        folder_path: 病害照片文件夹
+        file_count；此站拍摄照片数量"""
+        root = tk.Tk()
+        root.withdraw()  # 隐藏主窗口
+        # parts = re.split(r'[/\\]', directory_path)
+        # print(parts[len(parts) - 1])
+
+        result = messagebox.askyesno("确认删除", f"此站采集了: {file_count1}\n清空今日缓存照片\n确定要删除 {directory_path} 中的所有内容吗？")
+
+        root.destroy()  # 关闭主窗口
+        if result:
+            # 3. 删除目录中的所有内容
+            self.delete_all_in_directory(directory_path)
+            self.delete_all_in_directory(folder_path1)
+        else:
+            print("删除操作已取消")
+        return result
+
 
     def export_data(self):
         # 连接到SQLite数据库
-        global folder_path
+        global file_count, img_dir
         db_path = os.path.join("sql", "example.db")
         conn = sqlite3.connect(db_path)
         cursor = conn.cursor()
@@ -2855,7 +2913,11 @@ class MyWindow(QMainWindow):
             line_name = row[3]
             station_name = row[5]
             key = f"{line_name}-{station_name}-{current_date}"
-
+            img_dir = f"./data/{line_name}/{station_name}"
+            # 得到文件夹内照片数量
+            file_counts = self.count_files_in_directory(img_dir)
+            file_count = file_counts // 2
+            print(f"此站采集了: {file_count}")
             # 处理 damageType 和 damageData 字段
             damage_types = [dt.strip() for dt in row[12].split(",")] if row[12] else []
 
@@ -2877,27 +2939,50 @@ class MyWindow(QMainWindow):
             # 重新组织 damageData 为需要的格式
             formatted_damage_data = {damage_type: damage_data.get(damage_type, []) for damage_type in damage_types}
 
-            data = {
-                "id": row[0],
-                "inspector": row[1],
-                "line_id": int(row[2]),  # 保持为整数
-                "line_name": row[3],
-                "station_id": int(row[4]),  # 保持为整数
-                "station_name": row[5],
-                "ceiling_id": int(row[6]),  # 保持为整数
-                "ceiling_name": row[7],
-                "depart_id": int(row[8]),
-                "depart_name": row[9],
-                "inspection_time": row[10],
-                "damageType": row[12],
-                "damageData": formatted_damage_data,
-                "damageDetail": row[13],
-                "damageLocation": row[14],
-                "picName": row[15],
-                "ceilingType": row[16],
-                "isDisposed": row[17],
-                "measures": row[18]
-            }
+            try:
+                data = {
+                    "id": row[0],
+                    "inspector": row[1],
+                    "line_id": int(row[2]),  # 保持为整数
+                    "line_name": row[3],
+                    "station_id": int(row[4]),  # 保持为整数
+                    "station_name": row[5],
+                    "ceiling_id": int(row[6]),  # 保持为整数
+                    "ceiling_name": row[7],
+                    "depart_id": int(row[8]),
+                    "depart_name": row[9],
+                    "inspection_time": row[10],
+                    "damageType": row[12],
+                    "damageData": formatted_damage_data,
+                    "damageDetail": row[13],
+                    "damageLocation": row[14],
+                    "picName": row[15],
+                    "ceilingType": row[16],
+                    "isDisposed": row[17],
+                    "measures": row[18]
+                }
+            except:
+                data = {
+                    "id": row[0],
+                    "inspector": row[1],
+                    "line_id": str(row[2]),  # 保持为整数
+                    "line_name": row[3],
+                    "station_id": str(row[4]),  # 保持为整数
+                    "station_name": row[5],
+                    "ceiling_id": str(row[6]),  # 保持为整数
+                    "ceiling_name": row[7],
+                    "depart_id": str(row[8]),
+                    "depart_name": row[9],
+                    "inspection_time": row[10],
+                    "damageType": row[12],
+                    "damageData": formatted_damage_data,
+                    "damageDetail": row[13],
+                    "damageLocation": row[14],
+                    "picName": row[15],
+                    "ceilingType": row[16],
+                    "isDisposed": row[17],
+                    "measures": row[18]
+                }
             data_dict[key].append(data)
 
         # 创建并写入JSON文件
@@ -2913,7 +2998,8 @@ class MyWindow(QMainWindow):
             # 将数据写入JSON文件
             json_file_path = os.path.join(outer_folder, 'latest_data.json')
             with open(json_file_path, 'w', encoding='utf-8') as json_file:
-                json.dump({"data": data_list}, json_file, ensure_ascii=False, indent=4)
+                # json.dump({"collectImgNum": file_count}, json_file, ensure_ascii=False, indent=4)
+                json.dump({"collectImgNum": file_count,"data": data_list}, json_file, ensure_ascii=False, indent=4)
             print(f"数据已保存到 {json_file_path}")
 
             # 压缩包名为 key.zip，压缩整个外部文件夹而不是内容
@@ -2929,6 +3015,8 @@ class MyWindow(QMainWindow):
                         arcname = os.path.join(folder_name, os.path.relpath(file_path, start=key))
                         zipf.write(file_path, arcname=arcname)
 
+        # 是否删除此站文件
+        self.confirm_deletion(img_dir, folder_path, file_count)
         QMessageBox.information(self, "成功", "ZIP文件创建成功!\n文件保存至：D盘 PythonCode文件夹内")
 
         # 关闭游标和连接
@@ -3134,6 +3222,7 @@ class MyWindow(QMainWindow):
         selected_line = self.line_combo.currentText()
         selected_station = self.station_combo.currentText()
         selected_area = self.area_combo.currentText()
+
         if selected_line and selected_station and selected_area:
             self.current_station_dir = os.path.join(self.save_dir, selected_line, selected_station, selected_area)
             if not os.path.exists(self.current_station_dir):

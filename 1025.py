@@ -2893,27 +2893,50 @@ class MyWindow(QMainWindow):
             # 重新组织 damageData 为需要的格式
             formatted_damage_data = {damage_type: damage_data.get(damage_type, []) for damage_type in damage_types}
 
-            data = {
-                "id": row[0],
-                "inspector": row[1],
-                "line_id": int(row[2]),  # 保持为整数
-                "line_name": row[3],
-                "station_id": int(row[4]),  # 保持为整数
-                "station_name": row[5],
-                "ceiling_id": int(row[6]),  # 保持为整数
-                "ceiling_name": row[7],
-                "depart_id": int(row[8]),
-                "depart_name": row[9],
-                "inspection_time": row[10],
-                "damageType": row[12],
-                "damageData": formatted_damage_data,
-                "damageDetail": row[13],
-                "damageLocation": row[14],
-                "picName": row[15],
-                "ceilingType": row[16],
-                "isDisposed": row[17],
-                "measures": row[18]
-            }
+            try:
+                data = {
+                    "id": row[0],
+                    "inspector": row[1],
+                    "line_id": int(row[2]),  # 保持为整数
+                    "line_name": row[3],
+                    "station_id": int(row[4]),  # 保持为整数
+                    "station_name": row[5],
+                    "ceiling_id": int(row[6]),  # 保持为整数
+                    "ceiling_name": row[7],
+                    "depart_id": int(row[8]),
+                    "depart_name": row[9],
+                    "inspection_time": row[10],
+                    "damageType": row[12],
+                    "damageData": formatted_damage_data,
+                    "damageDetail": row[13],
+                    "damageLocation": row[14],
+                    "picName": row[15],
+                    "ceilingType": row[16],
+                    "isDisposed": row[17],
+                    "measures": row[18]
+                }
+            except:
+                data = {
+                    "id": row[0],
+                    "inspector": row[1],
+                    "line_id": str(row[2]),  # 保持为整数
+                    "line_name": row[3],
+                    "station_id": str(row[4]),  # 保持为整数
+                    "station_name": row[5],
+                    "ceiling_id": str(row[6]),  # 保持为整数
+                    "ceiling_name": row[7],
+                    "depart_id": str(row[8]),
+                    "depart_name": row[9],
+                    "inspection_time": row[10],
+                    "damageType": row[12],
+                    "damageData": formatted_damage_data,
+                    "damageDetail": row[13],
+                    "damageLocation": row[14],
+                    "picName": row[15],
+                    "ceilingType": row[16],
+                    "isDisposed": row[17],
+                    "measures": row[18]
+                }
             data_dict[key].append(data)
 
         # 创建并写入JSON文件
